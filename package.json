@@ -1,6 +1,6 @@
 {
-  "name": "auction-website",
-  "private": true,
+  "homepage": "https://joken-playz.github.io/Grow-A-Garden-Site",
+  "name": "Grow-A-Garden-Site",
   "version": "3.2.1",
   "type": "module",
   "scripts": {
@@ -27,5 +27,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^6.3.3"
-  }
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
